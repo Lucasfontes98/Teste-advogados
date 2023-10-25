@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Consulta de Processos</title>
+</head>
+<body>
+  <h1>Consulta de Processos</h1>
+
+  <form action="/gerarRelatorio" method="post">
+    <label for="advogadoId">ID do Advogado:</label>
+    <input type="text" name="advogadoId" id="advogadoId" required>
+    <button type="submit">Consultar Processos</button>
+  </form>
+
+  <div id="resultados">
+    <!-- Os resultados da consulta serão exibidos aqui. -->
+  </div>
+</body>
+</html>
