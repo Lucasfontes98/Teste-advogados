@@ -4,7 +4,7 @@
 
  ## Pré-requisitos
 - Node.js instalado
-- MySQL instalado e configurado (você pode usar o script fornecido para criar o banco de dados)
+- MySQL instalado e configurado
 
 ## Instruções de Instalação
 1. Clone este repositório para o seu computador.
