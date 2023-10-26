@@ -1,6 +1,6 @@
  # Consulta de Processos de Advogado
 
- # Esta aplicação permite ao usuário listar todos os processos pelos quais um advogado é responsável. Basta inserir o ID do advogado no formulário e clicar em "Gerar relatório" para ver os resultados.
+ Esta aplicação permite ao usuário listar todos os processos pelos quais um advogado é responsável. Basta inserir o ID do advogado no formulário e clicar em "Gerar relatório" para ver os resultados.
 
  ## Pré-requisitos
 - Node.js instalado
